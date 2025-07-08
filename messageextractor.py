@@ -3,7 +3,7 @@ import pandas as pd
 import extract_msg
 
 # Define the folder containing .msg files
-folder_path = r'C:\\Users\\u235211\\OneDrive - Trane Technologies\\Desktop\\Stuff\\CustOnbMDMS\\####EMAIL BACKUPS\\5-2025\\MDM EMAIL BACKUP 3-25'
+folder_path = r'' # This is where you put your folder path to extract information, for windows machines r'C:\\ . . .'
 
 # Initialize an empty list to store the extracted data
 data = []
