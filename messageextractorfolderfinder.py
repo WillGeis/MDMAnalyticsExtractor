@@ -3,7 +3,7 @@ import pandas as pd
 import extract_msg
 
 # Define the root folder containing dated subfolders with .msg files
-root_folder_path = r'C:\\Users\\u235211\\OneDrive - Trane Technologies\\Desktop\\Stuff\\CustOnbMDMS\\####EMAIL BACKUPS\\6-2025'
+root_folder_path = r'' # This is where you put your folder path to extract information, for windows machines r'C:\\ . . .'
 
 # Initialize an empty list to store the extracted data
 data = []
